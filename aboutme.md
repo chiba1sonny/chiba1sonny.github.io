@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: We are a group of poeple who collabrate to do some projects and write useful bolgs
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### We are:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Udam
+- Asgan
+- Shuluun
+- Bolag
 
-What else do you need?
+### What do we do here (Our subjects)
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+-
+-
+-
+-
