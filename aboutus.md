@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: We are a group of poeple who collabrate to do some projects and write useful bolgs
+subtitle: We do some projects and write useful notes
 ---
 
 ### We are:
