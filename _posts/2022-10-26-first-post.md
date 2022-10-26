@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our First Post!
-image: /img/testes.png
+image: /img/hello_world.jpeg
 tags: [TesTes, Us, Udam]
 ---
 
