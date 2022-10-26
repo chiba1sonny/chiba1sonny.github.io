@@ -24,7 +24,7 @@ description: TesTes
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Resources:
+  People:
     - Udam: "https://chiba1sonny.github.io/"
     - Asgan: ""
     - Shuluun: ""
