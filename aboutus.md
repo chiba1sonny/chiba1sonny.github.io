@@ -13,7 +13,5 @@ subtitle: We are a group of poeple who collabrate to do some projects and write 
 
 ### What do we do here (Our subjects)
 
--
--
--
--
+### Join us
+
