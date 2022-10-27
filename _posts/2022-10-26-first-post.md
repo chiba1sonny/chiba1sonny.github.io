@@ -15,5 +15,5 @@ Below is some information you need to know to add contents and make changes
 - To add pages to our site, you can either write a markdown file `.md` (good choice) or you can write an HTML file directly.
 - I suggest stick with markdown if you don't know HTML. I have no idea about HTML.
 - Any file that you add inside the `_posts` directory will be treated as a blog entry. And this one will be the file in which we add contents on a daily basis.
-- The notes we write will appear directly on the homepage. please refer to this for writing style.
+- The notes we write will appear directly on the homepage. please refer to [this](https://github.com/MGLOrga/writing-template/blob/main/2000-01-01-template.md) for writing style.
 - I also added **PROJECT** in the navigation bar. Hope we could do some interesting projects together.
