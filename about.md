@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About
 subtitle: We do some projects and write useful notes
 ---
 
