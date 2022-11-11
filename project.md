@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Project
+title: Projects
+subtitle: Personal Project
+share-title: Udam | Projects
+share-description: This is a collection of some personal projects I’ve worked on.
+comments: true
+carbonads: true
 ---
 
+---
 ## Research Project
 - Japan Urban Road Marking Segmentation 
 
@@ -16,10 +22,16 @@ title: Project
 - Mapping Road Marking Quality at lane level and city scale
 - Attenuation Relationship of Peak Ground Velocity 
 
+---
+
 ## Dataset Project
 - RMD(Road Marking Dataset)
 - RMQD(Road Marking Quality Dataset)
 
+---
+
 ## Playground Project
 - Deep Learning based MongolGer&RomanTent Classification application from scratch
 - Folium 
+
+---
