@@ -8,8 +8,9 @@ comments: true
 carbonads: true
 ---
 
----
+
 ## Research Project
+
 - **Japan Urban Road Marking Segmentation**
 
 <p align = "justify">
@@ -24,9 +25,31 @@ This project focuses on the problem of the existence of objects at multiple scal
 <a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" class="btn btn-primary">vedio</a> 
 </div>
 
-
-
+---
 - **Mapping Road Marking Quality at lane level and city scale**
+
+<p align = "justify">
+The attenuation relationship is a method to predict the ground motion intensity(peak ground velocity) of earthquake that may occur in the future based on the ground motion records of past earthquakes. The attenuation relationships are used in both deterministic and probabilistic seismic hazard analyses. The attenuation refers to the phenomenon that the farther away from the epicenter, the weaker the earthquake intensity. The previous attenuation relationships are empirical equations that predict the level of ground shaking, based on the source characteristics (e.g., earthquake magnitude), the propagation path (e.g., the shortest distance from the fault), and the local site conditions, etc. As the development of statistical analysis methods and more ground motion records are obtained, the research of attenuation relationship has been greatly developed. However, due to the lack of ground motion records near the epicenter, it was found that previous attenuation relationships have low reliability at close range. Therefore, it is useful to develop new attenuation relationships of peak ground velocity (PGV) using machine learning methods.
+</p>
+<p align = "justify">
+This project tries to develop new attenuation relationships of peak ground velocity using machine learning methods: random forest, neural network, support vector machine, and XGBoost. In order to compare with the predictors obtained by machine learning, we have also constructed a new attenuation relationship of peak ground velocity using three-stage regression procedure.
+</p>
+
+- 6,944 ground motion records at 1,184 seismic observation stations which were observed during the 32 earthquakes from 1997 to 2011 in Japan are employed to construct the attenuation relationships. Ground motion records from the 4 recent earthquakes are used as the test set. 
+- The objective variable---PGV
+- The explanatory variables---Mw,r,H,Si
+- Below is derived from three stage regression model proposed by Molas and Yamazaki using our own data.
+$$log⁡PGV=-1.541+0.648Mw-0.00153r-log⁡(⁡r+0.0033*10**(0.5Mw))+0.00299H+Ci$$
+- Ci is the station correction factor.
+
+<div style="text-align:left">
+<strong>Quick Links:</strong> &nbsp;&nbsp; 
+<a href="https://www.mdpi.com/2072-4292/14/18/4508/htm" role="button" class="btn btn-primary">paper</a> 
+<a href="https://github.com/chiba1sonny/Semantic-Segmentation-for-RMD" class="btn btn-primary">repo</a>
+<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" class="btn btn-primary">demo app</a> 
+</div>
+
+---
 - **Attenuation Relationship of Peak Ground Velocity**
 
 ---
