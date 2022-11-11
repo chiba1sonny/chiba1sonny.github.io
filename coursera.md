@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I love the courses on Coursera
+title: I am enjoying Coursera
 ---
 
 - Prof.Andrew Ng. is such a good teacher and this 'deeplearning.ai' specialization course on Coursera is very well organized.
