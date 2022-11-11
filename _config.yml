@@ -49,7 +49,7 @@ avatar: "/img/icon.png"
 # for the navigation bar, the main page, and the footer.
 navbar-col: "orange"
 # navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
+footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 page-col: "white"
 # page-img: "/img/bgimage.png"
