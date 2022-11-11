@@ -2,7 +2,7 @@
 layout: post
 title: My First Post!
 image: /img/hello_world.jpeg
-tags: [TesTes, Us, Udam]
+tags: [Udam]
 ---
 
 - Finally, I have my own site. I do not have to write on Qiita and be afraid of anything is mistaken. But I will write them down carefully. Yes, blog! I enjoy writting it. And again:
