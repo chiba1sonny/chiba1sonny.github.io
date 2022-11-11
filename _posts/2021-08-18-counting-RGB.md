@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Our First Post!
+title: セグメンテーション用自作画像データセットの統計について
 image: /img/dataset.png
-tags: ["machine translation","natural language processing","natural language generation"]
+tags: ["segmentation dataset","annotation"]
 ---
 
 [こちら](https://qiita.com/chiba1sonny/items/9a16fbb3e8136e3f983c)にアノテーションツールLabelmeを使ってデータセットを作る方法を記載しました。作ったデータセットの属性を了解することは、データ処理やモデル構築に有益です。この記事では、自作画像セグメンテーションデータセットの画像ごとにあるRGB値とそれぞれが占めるピクセル値を統計する方法と全データセットにあるRGB値を入手する方法を記載します。
