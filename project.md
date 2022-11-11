@@ -36,18 +36,11 @@ The attenuation relationship is a method to predict the ground motion intensity(
 This project tries to develop new attenuation relationships of peak ground velocity using machine learning methods: random forest, neural network, support vector machine, and XGBoost. In order to compare with the predictors obtained by machine learning, we have also constructed a new attenuation relationship of peak ground velocity using three-stage regression procedure.
 </p>
 
-- 6,944 ground motion records at 1,184 seismic observation stations which were observed during the 32 earthquakes from 1997 to 2011 in Japan are employed to construct the attenuation relationships. Ground motion records from the 4 recent earthquakes are used as the test set. 
-- The objective variable---PGV
-- The explanatory variables---Mw,r,H,Si
-- Below is derived from three stage regression model proposed by Molas and Yamazaki using our own data.
-$$log⁡PGV=-1.541+0.648Mw-0.00153r-log⁡(⁡r+0.0033*10**(0.5Mw))+0.00299H+Ci$$
-- Ci is the station correction factor.
-
 <div style="text-align:left">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="https://www.mdpi.com/2072-4292/14/18/4508/htm" role="button" class="btn btn-primary">paper</a> 
-<a href="https://github.com/chiba1sonny/Semantic-Segmentation-for-RMD" class="btn btn-primary">repo</a>
-<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" class="btn btn-primary">demo app</a> 
+<a href="https://arxiv.org/abs/2111.00220" role="button" class="btn btn-primary">paper</a> 
+<a href="https://github.com/chiba1sonny/Pgv-attenuation-" class="btn btn-primary">repo</a>
+<a href="https://chiba1sonny.github.io/2022-09-12-A-steamlit-demo-for-PGV-Prediction/">demo app</a> 
 </div>
 
 ---
