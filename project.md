@@ -42,7 +42,7 @@ The attenuation relationship is a method to predict the ground motion intensity(
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
 <a href="https://arxiv.org/abs/2111.00220" role="button" class="btn btn-primary">paper</a> 
 <a href="https://github.com/chiba1sonny/Pgv-attenuation-" class="btn btn-primary">repo</a>
-<a href="https://chiba1sonny.github.io/2022-09-12-A-steamlit-demo-for-PGV-Prediction/">demoapp</a> 
+<a href="https://github.com/chiba1sonny/PGV-Prediction-Streamlit-demo">demoapp</a> 
 </div>
 
 ---
