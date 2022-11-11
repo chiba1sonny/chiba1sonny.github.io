@@ -23,7 +23,7 @@ This project focuses on the problem of the existence of objects at multiple scal
 <a href="https://www.mdpi.com/2072-4292/14/18/4508/htm" role="button" class="btn btn-primary">paper</a> 
 <a href="https://github.com/chiba1sonny/Semantic-Segmentation-for-RMD" class="btn btn-primary">repo</a>
 <a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" class="btn btn-primary">trained models</a> 
-<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" class="btn btn-primary">vedio</a> 
+<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" class="btn btn-primary">video</a> 
 </div>
 
 ---
