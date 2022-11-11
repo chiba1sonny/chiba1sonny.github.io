@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 深層学習に関するGithubリポジトリ及びNN描くツールを紹介します
-image: /img/hello_world.jpeg
+image: /img/rec.jpeg
 tags: ["deep learning","natural network"]
 ---
 
