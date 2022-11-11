@@ -121,7 +121,7 @@ url-pretty: "udam.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Google Tag Manager ID
 #gtm: ""
-
+google_analytics: "UA-246523448-1"
 # Facebook App ID
 # fb_app_id: ""
 
