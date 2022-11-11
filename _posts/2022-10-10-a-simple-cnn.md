@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ゼロからの「MNISTデータを分類する簡単なCNNの構築」
-image: /img/cnn.png
+image:
 tags: ["cnn","natural network","image classification"]
 ---
 
