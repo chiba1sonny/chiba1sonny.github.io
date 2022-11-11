@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Backpropagation-分かりやすい誤差逆伝播法
-image: /img/back.jpg
+image:
 tags: ["backpropagation","natural network"]
 ---
 
