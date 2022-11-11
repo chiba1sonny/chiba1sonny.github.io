@@ -29,6 +29,11 @@ This project focuses on the problem of the existence of objects at multiple scal
 ---
 - **Mapping Road Marking Quality at lane level and city scale**
 
+**Ongoing**
+
+---
+- **Attenuation Relationship of Peak Ground Velocity**
+
 <p align = "justify">
 The attenuation relationship is a method to predict the ground motion intensity(peak ground velocity) of earthquake that may occur in the future based on the ground motion records of past earthquakes. The attenuation relationships are used in both deterministic and probabilistic seismic hazard analyses. The attenuation refers to the phenomenon that the farther away from the epicenter, the weaker the earthquake intensity. The previous attenuation relationships are empirical equations that predict the level of ground shaking, based on the source characteristics (e.g., earthquake magnitude), the propagation path (e.g., the shortest distance from the fault), and the local site conditions, etc. As the development of statistical analysis methods and more ground motion records are obtained, the research of attenuation relationship has been greatly developed. However, due to the lack of ground motion records near the epicenter, it was found that previous attenuation relationships have low reliability at close range. Therefore, it is useful to develop new attenuation relationships of peak ground velocity (PGV) using machine learning methods.
 </p>
@@ -42,9 +47,6 @@ This project tries to develop new attenuation relationships of peak ground veloc
 <a href="https://github.com/chiba1sonny/Pgv-attenuation-" class="btn btn-primary">repo</a>
 <a href="https://chiba1sonny.github.io/2022-09-12-A-steamlit-demo-for-PGV-Prediction/">demo app</a> 
 </div>
-
----
-- **Attenuation Relationship of Peak Ground Velocity**
 
 ---
 
