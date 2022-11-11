@@ -48,13 +48,33 @@ The attenuation relationship is a method to predict the ground motion intensity(
 ---
 
 ## Dataset Project
+
+---
+
 - **RMD(Road Marking Dataset)**
+
+**Ongoing**
+
+---
+
 - **RMQD(Road Marking Quality Dataset)**
+
+**Ongoing**
 
 ---
 
 ## Playground Project
+
+---
+
 - **Deep Learning based MongolGer&RomanTent Classification application from scratch**
+
+**Ongoing**
+
+---
+
 - **Folium**
+
+**Ongoing**
 
 ---
