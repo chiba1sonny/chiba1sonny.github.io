@@ -20,10 +20,10 @@ This project focuses on the problem of the existence of objects at multiple scal
 
 <div style="text-align:left">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="https://www.mdpi.com/2072-4292/14/18/4508/htm" role="button" class="btn btn-dark">paper</a> 
-<a href="https://github.com/chiba1sonny/Semantic-Segmentation-for-RMD" role="button" class="btn btn-dark">repo</a>
-<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" role="button" class="btn btn-dark">weights</a> 
-<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" role="button" class="btn btn-dark">video</a> 
+<a href="https://www.mdpi.com/2072-4292/14/18/4508/htm" role="button" class="btn btn-success">paper</a> 
+<a href="https://github.com/chiba1sonny/Semantic-Segmentation-for-RMD" role="button" class="btn btn-success">repo</a>
+<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" role="button" class="btn btn-success">weights</a> 
+<a href="https://www.youtube.com/watch?v=9xcYjRMyXr4" role="button" class="btn btn-success">video</a> 
 </div>
 
 ---
@@ -40,9 +40,9 @@ The attenuation relationship is a method to predict the peak ground velocity of 
 
 <div style="text-align:left">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="https://arxiv.org/abs/2111.00220" role="button" role="button" class="btn btn-dark">paper</a> 
-<a href="https://github.com/chiba1sonny/Pgv-attenuation-" role="button" class="btn btn-dark">repo</a>
-<a href="https://github.com/chiba1sonny/PGV-Prediction-Streamlit-demo" role="button" class="btn btn-dark">appdemo</a>
+<a href="https://arxiv.org/abs/2111.00220" role="button" role="button" class="btn btn-success">paper</a> 
+<a href="https://github.com/chiba1sonny/Pgv-attenuation-" role="button" class="btn btn-success">repo</a>
+<a href="https://github.com/chiba1sonny/PGV-Prediction-Streamlit-demo" role="button" class="btn btn-success">appdemo</a>
 </div>
 
 ---
