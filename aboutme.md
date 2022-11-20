@@ -3,7 +3,7 @@ layout: page
 title: Udam
 ---
 
-### 😃 Hi, my name is Udam(JunjieWu). I have the following quality:
+### 😃 Hi, my name is Uudam. I have the following quality:
 
 - I'm [INFJ](https://www.16personalities.com/infj-personality), also called advocater.
 
