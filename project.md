@@ -43,7 +43,7 @@ The attenuation relationship is a method to predict the peak ground velocity of 
 <a href="https://arxiv.org/abs/2111.00220" role="button" role="button" class="btn btn-success">paper</a> 
 <a href="https://github.com/chiba1sonny/Pgv-attenuation-" role="button" class="btn btn-success">repo</a>
 <a href="https://github.com/chiba1sonny/PGV-Prediction-Streamlit-demo" role="button" class="btn btn-success">appdemo</a>
-<a href="https://www.youtube.com/watch?v=s9H_JmGt-DQ" role="button" class="btn btn-success">appvedio</a>
+<a href="https://www.youtube.com/watch?v=s9H_JmGt-DQ" role="button" class="btn btn-success">appvideo</a>
 </div>
 
 ---
