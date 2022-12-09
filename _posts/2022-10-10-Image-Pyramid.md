@@ -24,7 +24,7 @@ Image pyramidは基本的に、pyramidの形のような解像度が異なる一
 
 ![Screenshot from 2022-10-24 13-43-33](https://user-images.githubusercontent.com/68838083/197450007-a1e40d27-aecd-412a-8a6c-66b60c9d01ba.png)
 
-- DeepLabの著者のKaiming Heさんは、下の図のようなpooling strategyを利用することで、ネットワークの入力サイズに関係なく、サイズが固定された特徴ベクトルを生成させました。基本的には、あるサイズの入力が与えられると、３つのMax poolingは同時に実行され、それぞれから4 x 4、2 x 2、1 x 1の特徴マップが生成されます。次に、これらを線形化してから１つのベクトルを取得します。論文によると、このベクトルには、コンピュータービジョンタスクの精度を向上させできる空間情報が含まれています。これは有名な「[Spatial pyramid pooling](https://arxiv.org/abs/1406.4729)」です。前の２つの例は入力画像のImage pyramidを使用したと言うと、Spatial pyramid poolingは特徴マップのImage pyramidを利用したと言えます。セマンティックセグメンテーションタスクのPSPNetのPyramid pooling module, DeeplabのAtrous spatial pyramid pooling(ASPP)などもSPPのアイディアからインピレーションを得ました。
+- ResNetの著者のKaiming Heさんは、下の図のようなpooling strategyを利用することで、ネットワークの入力サイズに関係なく、サイズが固定された特徴ベクトルを生成させました。基本的には、あるサイズの入力が与えられると、３つのMax poolingは同時に実行され、それぞれから4 x 4、2 x 2、1 x 1の特徴マップが生成されます。次に、これらを線形化してから１つのベクトルを取得します。論文によると、このベクトルには、コンピュータービジョンタスクの精度を向上させできる空間情報が含まれています。これは有名な「[Spatial pyramid pooling](https://arxiv.org/abs/1406.4729)」です。前の２つの例は入力画像のImage pyramidを使用したと言うと、Spatial pyramid poolingは特徴マップのImage pyramidを利用したと言えます。セマンティックセグメンテーションタスクのPSPNetのPyramid pooling module, DeeplabのAtrous spatial pyramid pooling(ASPP)などもSPPのアイディアからインピレーションを得ました。
 
 ![Screenshot from 2022-10-24 13-59-20](https://user-images.githubusercontent.com/68838083/197451589-4d904c31-6afb-453c-a1fa-c49ec76ba4cc.png)
 
