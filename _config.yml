@@ -44,11 +44,30 @@ avatar: "/img/icon.png"
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
-navbar-col: "#511"
 
-page-col: "#F0F0F0"
+navbar-col: "#44475a"
+navbar-text-col: "#f8f8f2"
+navbar-children-col: "#44475a"
 
-footer-col: "#F5F5F5"
+page-col: "#282a36"
+link-col: "#50fa7b"
+hover-col: "#ffb86c"
+
+footer-col: "#44475a"
+footer-text-col: "#f8f8f2"
+footer-link-col: "#bd93f9"
+
+#here I started overriding stuff:
+text-col: "#f8f8f2"
+preview-col: "#8be9fd"
+heading-col: "#8be9fd"
+
+#for warning, error and info boxes
+box-col: "#44475a"
+
+#for code 'highlights'
+code-col: "#f8f8f2"
+code-high-col: "#f1fa8c"
 
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
