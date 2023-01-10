@@ -46,7 +46,7 @@ PSP-netではピラミッド型プーリングが提案されました。異な�
 
 CNNに基づいたセマンティックセグメンテーションのネットワーク構造をまとめました。こちらに示した4種類に分けられます。それぞれは、FCN型、エンコーダ-デコーダ、膨張畳み込み、ピラミッドプリングです。
 
-<img width="200" alt="mojikyo45_640-2.gif" src="https://user-images.githubusercontent.com/68838083/211452873-2b36e054-5adc-4097-85b3-d2f95bce8898.png">
+<img width="400" alt="mojikyo45_640-2.gif" src="https://user-images.githubusercontent.com/68838083/211452873-2b36e054-5adc-4097-85b3-d2f95bce8898.png">
 
 
 
