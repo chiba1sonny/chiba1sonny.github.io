@@ -28,11 +28,13 @@ I was born in Inner Mongolia in 1994. My mother tongue is Mongolian and I was ed
 - TA & RA at Chiba University
 - Member of [Maruyama Lab](http://ares.tu.chiba-u.jp/marulab/research/index.html)
 - Member of [Okamoto Scholarship Foundation](http://www.osf-family.com/)
+- Member of [Rotary Club](https://www.rotary.org/ja)
 - Teaching kids English at [Lepton](https://www.lepton.co.jp/)
 - Volunteer at [Chiba City International Association](https://ccia-chiba.or.jp/en/) and MUSS
 - Learning at [Coursera](https://www.coursera.org/search?query=deep%20learning&)
 - Won the third prize in a [Bug Hunting Contest](https://jdp.chiba-u.jp/c-csirt/contest/bughunt2020/index.html)
 - Won the silver medal in an [Image Segmentation Competition](https://www.kaggle.com/chiba1sonny)
+- Won the silver medal in an [Object Detection Competition](https://signate.jp/profile)
 
 ### 🎵 Hobby
 - I am looking forward to enjoy helping oyhers by writting useful blogs.
